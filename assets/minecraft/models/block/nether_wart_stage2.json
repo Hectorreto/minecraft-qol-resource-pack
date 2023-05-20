@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop_ready",
+  "textures": {
+    "crop": "minecraft:block/nether_wart_stage2",
+    "cross": "minecraft:item/nether_wart"
+  }
+}
